@@ -1,0 +1,15 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "一：初始化git \tmkdir webpack-demo && cd webpack-demo 二：初始化项目(-y:自动生成，不需要提醒) \tnpm init -y  三：增加.gitignire README.md \ttouch .gitignore README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.5"
+  }
+}
